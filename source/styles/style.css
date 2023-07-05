@@ -14,7 +14,7 @@ justify-content: space-between;gap: 40px;padding-top: 10px;
 }
 .container li a:hover{color: #1ce1ac;}
 
-.col-6 .discount{}
+
 
 
 
@@ -69,10 +69,10 @@ p {line-height: 1.7;font-size: 19px;}
 font-family: 'Mandali', sans-serif;}
 
 .buttons a {text-decoration: none;padding-left: 20px;}
-.logos {display: flex;flex-direction: row;padding-bottom: 75px;
+.logos {display: flex;flex-direction: row;padding-bottom: 80px;
 justify-content: space-between;
 padding-top: 150px;}
-.logos img {height: 40px;}
+.logos img {height: 38px;width: 142px;}
 
 
 
@@ -223,7 +223,7 @@ padding-top: 200px;padding-bottom: 60px;height: 240px;
 
 .table a {text-decoration: none;font-size: 16px;
   color: #6c757d;font-family:'Mandali', sans-serif ;}
-  .table li:hover {animation: myAnim 3s ease 0s 1 normal forwards;
+  .table li:hover {animation: myAnim 1s ease 0s 1 normal forwards;
     list-style-type: disc;}
   @keyframes myAnim {
     0% {
@@ -231,7 +231,7 @@ padding-top: 200px;padding-bottom: 60px;height: 240px;
     }
   
     100% {
-      transform: translateX(100px);
+      transform: translateX(20px);
     }
   }
 .table h5 {font-family: 'Lato', sans-serif;font-size: 22px;
